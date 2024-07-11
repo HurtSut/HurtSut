@@ -1,4 +1,5 @@
-👋 Hi, humans!
+👋 Hi!
 🌱 I’m currently learning С++, С#
-Also if you want, you can support me on
-https://www.buymeacoffee.com/HurtSut
+
+## Links for Support
+[ByMeACoffe](https://www.buymeacoffee.com/HurtSut)
