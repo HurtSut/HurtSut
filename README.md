@@ -1,4 +1,4 @@
-👋 Hi, I`am Alex!
+👋 Hi, I`m Alex!
 I’m currently learning С++, С#
 
 ## Links for Support
